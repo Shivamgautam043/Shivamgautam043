@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shivamgautam043/Shivamgautam043/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" width="450" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgautam043&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgautam043" /> </p>
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgautam043&show_icons=true&locale=en&layout=compact" alt="shivamgautam043" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgautam043&show_icons=true&locale=en" alt="shivamgautam043" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivamgautam043&show_icons=true&locale=en" alt="shivamgautam043" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgautam043&" alt="shivamgautam043" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgautam043&" alt="shivamgautam043" /></p>
