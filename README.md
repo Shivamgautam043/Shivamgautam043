@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center;">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif" alt="Banner" style="width:100%;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; color: white;">
+  <div style="position: absolute; top: 0%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; color: white;">
     Shivam
   </div>
 </div>
