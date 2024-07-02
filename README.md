@@ -1,8 +1,5 @@
 <div style="position: relative; text-align: center;">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif" alt="Banner" style="width:100%;">
-  <div style="position: absolute; top: 0%; left: 50%; font-size: 3em; color: white;">
-    Shivam
-  </div>
 </div>
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <p>
