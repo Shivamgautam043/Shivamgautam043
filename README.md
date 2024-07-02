@@ -1,4 +1,4 @@
-![logo](https://github.com/Shivamgautam043/Shivamgautam043/blob/main/banner.png)
+![logo](https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif) 
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer" />
