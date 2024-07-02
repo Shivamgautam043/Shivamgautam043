@@ -1,8 +1,14 @@
-![logo](https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif) 
+<div style="position: relative; text-align: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif" alt="Banner" style="width:100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; color: white;">
+    Shivam
+  </div>
+</div>
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer" />
 </p>
+
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
