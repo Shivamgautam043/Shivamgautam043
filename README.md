@@ -1,29 +1,65 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif" alt="Banner" style="width:100%;">
-</div>
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer" />
+<!-- Modern & Professional GitHub README for Shivam -->
+
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*y93jZzftu0aJQyc0SjEmTg.gif" alt="Banner" style="max-width: 100%; border-radius: 8px;">
 </p>
 
-<h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hi there, I'm Shivam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgautam043&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgautam043" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivamg50827915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamg50827915" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam42" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gautamshivam043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautamshivam043" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/shivamgautam043">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;Programmer+%7C+Full+Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/shivam42" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://twitter.com/shivamg50827915" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.leetcode.com/gautamshivam043" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="Leetcode Badge" />
+  </a>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgautam043&show_icons=true&locale=en&layout=compact" alt="shivamgautam043" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivamgautam043&show_icons=true&locale=en" alt="shivamgautam043" /></p>
+- 💻 I’m currently working as a Software Developer
+- 🌱 Learning and building backend systems, APIs, and DevOps skills
+- ⚡ Fun fact: I love debugging and optimizing things
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgautam043&" alt="shivamgautam043" /></p>
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,html,css,react,nodejs,express,mysql,postgres,git,github,firebase,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamgautam043&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgautam043&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgautam043&theme=tokyonight" width="95%" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:devshivam018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devshivam018@gmail.com-red?style=flat&logo=gmail" alt="Email Badge" />
+  </a>
+</p>
