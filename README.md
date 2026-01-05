@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Shivam&fontSize=90&fontAlign=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlign=80" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Shivam&fontSize=90&fontAlign=50&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlign=50" width="100%" />
 
 <p align="center">
     <a href="https://linkedin.com/in/shivam42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
